@@ -1,15 +1,18 @@
 python-concepts
 ===============
-Studies in Python programming concepts, standard library modules, or fundamentals that I need to brush up on or otherwise haven't previously encountered, or require additional practice in.
+Studies and exercises in Python 3 programming concepts, standard library modules, or fundamentals. 
 
-
-concept todo list
-----------------------
-- Context managers
-- Type hinting
+A loose playground for general exercises and refreshers.
 
 
 goals for each project
 ----------------------
-- Being able to utilize the concept or tech w/examples.
-- Aquire the ability to comfortably communicate the concept, such as during a tech presentation or interview setting
+- Be able to fluently utilize the concept or tech w/examples.
+- Be able to comfortably communicate the concept, such as during a tech presentation or interview setting.
+
+
+todo list of identified topics
+------------------------------
+- Context managers
+- Type hinting
+- Unit testing

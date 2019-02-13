@@ -1,0 +1,4 @@
+ENV/
+.vscode/
+*/.mypy_cache/
+*.swp
